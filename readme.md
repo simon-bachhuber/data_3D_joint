@@ -1,5 +1,5 @@
 Diverse motion data of a two-segment kinematic chain interconnected by a spherical joint.
-Download the data as a .zip-archive from [link](https://faubox.rrze.uni-erlangen.de/getlink/fi6Z8QxcLV6B7V7HqiW5d6/data.zip) and unzip it.
+Download the data as a .zip-archive from [link](https://faubox.rrze.uni-erlangen.de/getlink/fi6Z8QxcLV6B7V7HqiW5d6/data.zip) and unzip it. The file is $3.7$ GB.
 
 # Data Descriptor
 
@@ -30,7 +30,7 @@ The resulting `data` folder contains 8192 sequences of 60s length at 100Hz. Each
 - quat1_y,
 - quat1_z,
 ---
-- quat2_u, unitless, the 0-th components of the quaternion that speciifies the rotation at time t from imu2 to imu1, this rotation the *estimation target*
+- quat2_u, unitless, the 0-th components of the quaternion that speciifies the rotation at time t from imu2 to imu1, this rotation is the *estimation target*
 - quat2_x,
 - quat2_y,
 - quat2_z
